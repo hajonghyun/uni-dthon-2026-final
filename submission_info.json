@@ -1,0 +1,14 @@
+{
+  "competition": "Uni-D Datathon 2026",
+  "model": "E1 HGB803 + sensor4/5 expert + multirate XGBoost788",
+  "team_confirmed_final_model": true,
+  "leaderboard_submission_number": 25,
+  "leaderboard_filename": "submission_e1_s20_mrxgb_train78.csv",
+  "leaderboard_submitter": "jaegwon0516",
+  "leaderboard_submitted_at_kst": "2026-11-15 05:00",
+  "public_macro_f1": "0.9345095889",
+  "final_csv_sha256": "273824ac1ff6b3884676b7d0a5733ee3566fa5ff4d4dd16b77cbbeef6a644f57",
+  "raw_data_or_prediction_csv_in_repository": false,
+  "pretrained_external_weights_used": false,
+  "publication_metadata_cleanup": "Only unused training experiment ID lists removed; model parameters and learned preprocessing preserved."
+}

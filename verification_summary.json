@@ -1,0 +1,91 @@
+{
+  "passed": true,
+  "organizer_checker": false,
+  "checks": [
+    {
+      "name": "full_reproduction",
+      "rows": 3451,
+      "label_differences": 0
+    },
+    {
+      "name": "repeat",
+      "rows": 3451,
+      "label_differences": 0
+    },
+    {
+      "name": "shuffle",
+      "rows": 3451,
+      "label_differences": 0
+    },
+    {
+      "name": "experiment_1",
+      "rows": 237,
+      "label_differences": 0
+    },
+    {
+      "name": "experiment_2",
+      "rows": 325,
+      "label_differences": 0
+    },
+    {
+      "name": "experiment_3",
+      "rows": 229,
+      "label_differences": 0
+    },
+    {
+      "name": "experiment_4",
+      "rows": 295,
+      "label_differences": 0
+    },
+    {
+      "name": "experiment_5",
+      "rows": 270,
+      "label_differences": 0
+    },
+    {
+      "name": "experiment_6",
+      "rows": 500,
+      "label_differences": 0
+    },
+    {
+      "name": "experiment_7",
+      "rows": 295,
+      "label_differences": 0
+    },
+    {
+      "name": "experiment_8",
+      "rows": 272,
+      "label_differences": 0
+    },
+    {
+      "name": "experiment_9",
+      "rows": 306,
+      "label_differences": 0
+    },
+    {
+      "name": "experiment_10",
+      "rows": 500,
+      "label_differences": 0
+    },
+    {
+      "name": "experiment_11",
+      "rows": 222,
+      "label_differences": 0
+    },
+    {
+      "name": "prefix60",
+      "rows": 2069,
+      "label_differences": 0
+    },
+    {
+      "name": "label_independence",
+      "rows": 2069,
+      "label_differences": 0
+    }
+  ],
+  "test_rows": 3451,
+  "test_experiments": 11,
+  "reproduced_final_csv_sha256": "273824ac1ff6b3884676b7d0a5733ee3566fa5ff4d4dd16b77cbbeef6a644f57",
+  "source": "Team self-check, five guide categories plus label independence",
+  "retraining": false
+}
